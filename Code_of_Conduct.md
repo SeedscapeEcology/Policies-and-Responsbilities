@@ -2,7 +2,7 @@
 
 Science is hard, and the work of making sure science isn't harder than it needs to be is on all of us. We create our culture, and in the Beckman Research Group, our culture is inclusive.
 
-We value the participation of every member of our community and want to ensure that every contributer has an enjoyable and fulfilling experience. Accordingly, everyone who participates in any Beckman Research Group is expected to show respect and courtesy to other community members at all time.
+We value the participation of every member of our community and want to ensure that every contributer has an enjoyable and fulfilling experience. Accordingly, everyone who participates in any Beckman Research Group is expected to show respect and courtesy to other community members at all times.
 
 Dr. Noelle Beckman, as head of the Beckman Research Group, and all group members, are dedicated to a ***harassment-free experience for everyone.*** Discrimination or harassment based on racial or ethnic background, citizenship status, religion (or lack thereof), political affiliation, gender identity/expression, sexual orientation, dis/ability status, age, appearance or body size will not be tolerated. **We do not tolerate harassment by and/or of members of our community in any form**.
 
@@ -36,7 +36,7 @@ This sentence is stolen from [Bastian Greshake's](https://github.com/gedankenstu
 
 The hours that members of the group choose to work is up to them. We are each welcome to send work-related emails or pull requests over the weekend or late at night, but no group members are required to reply to them outside of their typical work hours.
 
-Research group members are welcome to work flexibly for any reason. Ideally, all group members will have at least a few hours each week to overlap with Noelle in order to stay in touch on any challenges or successes, but it is the policy of the Whitaker Lab that every member is already self-motivated and doesn't need to work a traditional 9 to 5 day in order to meet their goals.
+Research group members are welcome to work flexibly for any reason. Ideally, all group members will have at least a few hours each week to overlap with Noelle in order to stay in touch on any challenges or successes, but it is the policy of the Beckman Research Group that every member is already self-motivated and doesn't need to work a traditional 9 to 5 day in order to meet their goals.
 
 **If you experience any challenges related to flexible working within the group** please contact [Noelle Beckman](https://github.com/seedscape). All communication will be treated as confidential.
 
