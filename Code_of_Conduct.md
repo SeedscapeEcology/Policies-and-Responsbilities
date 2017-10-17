@@ -18,9 +18,9 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 
 ***Participants asked to stop any harassing behavior are expected to comply immediately.***
 
-Members of the community who violate these rules - no matter how much they have contributed to the Whitaker lab, or how specialised their skill set - will be approached by Kirstie Whitaker. If inappropriate behaviour persists after a discussion with Kirstie, the contributer will be asked to discontinue their participation in Whitaker lab projects.
+Members of the community who violate these rules - no matter how much they have contributed to the Whitaker lab, or how specialised their skill set - will be approached by Noelle Beckman. If inappropriate behaviour persists after a discussion with Noelle, the contributer will be asked to discontinue their participation in Whitaker lab projects.
 
-**To report an issue** please contact [Kirstie Whitaker](https://github.com/KirstieJane). All communication will be treated as confidential.
+**To report an issue** please contact [Noelle Beckman](https://github.com/seedscape). All communication will be treated as confidential.
 
 ### Flexible working hours
 
@@ -30,8 +30,8 @@ This sentence is stolen from [Bastian Greshake's](https://github.com/gedankenstu
 
 The hours that members of the lab choose to work is up to them. We are each welcome to send work-related emails or pull requests over the weekend or late at night, but no lab members are required to reply to them outside of their typical work hours.
 
-Lab members are welcome to work flexibly for any reason. Ideally, all lab members will have at least a few hours each week to overlap with Kirstie in order to stay in touch on any challenges or successes, but it is the policy of the Whitaker Lab that every member is already self-motivated and doesn't need to work a traditional 9 to 5 day in order to meet their goals.
+Lab members are welcome to work flexibly for any reason. Ideally, all lab members will have at least a few hours each week to overlap with Noelle in order to stay in touch on any challenges or successes, but it is the policy of the Whitaker Lab that every member is already self-motivated and doesn't need to work a traditional 9 to 5 day in order to meet their goals.
 
-**If you experience any challenges related to flexible working within the lab** please contact [Kirstie Whitaker](https://github.com/KirstieJane). All communication will be treated as confidential.
+**If you experience any challenges related to flexible working within the lab** please contact [Noelle Beckman](https://github.com/seedscape). All communication will be treated as confidential.
 
 > The material in this code of conduct is derived from "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)" by Dr. Kirstie Whitaker and the Whitaker Lab team, used under CC BY 4.0. The Beckman Research Group Code of Conduct is licensed under CC BY 4.0 by Dr. Noelle G. Beckman.
