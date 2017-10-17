@@ -1,6 +1,6 @@
 # Code of Conduct
 
-We value the participation of every member of our community and want to ensure an that every contributer has an enjoyable and fulfilling experience. Accordingly, everyone who participates in any Whitaker Lab project is expected to show respect and courtesy to other community members at all time.
+We value the participation of every member of our community and want to ensure that every contributer has an enjoyable and fulfilling experience. Accordingly, everyone who participates in any Whitaker Lab project is expected to show respect and courtesy to other community members at all time.
 
 Kirstie Whitaker, as head of the Whitaker Lab, and all lab members, are dedicated to a ***harassment-free experience for everyone***, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. **We do not tolerate harassment by and/or of members of our community in any form**.
 
