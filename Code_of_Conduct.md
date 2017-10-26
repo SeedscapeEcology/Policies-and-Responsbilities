@@ -2,7 +2,7 @@
 
 Science is hard, and the work of making sure science isn't harder than it needs to be is on all of us. We create our culture, and in the Beckman Research Group, our culture is inclusive.
 
-We value the participation of every member of our community and want to ensure that every contributer has an enjoyable and fulfilling experience. Accordingly, everyone who participates in any Beckman Research Group is expected to show respect and courtesy to other community members at all times.
+We value the participation of every member of our community and want to ensure that every contributer has an enjoyable and fulfilling experience. Accordingly, everyone who participates in any Beckman Research Group project is expected to show respect and courtesy to other community members at all times.
 
 Dr. Noelle Beckman, as head of the Beckman Research Group, and all group members, are dedicated to a ***harassment-free experience for everyone.*** Discrimination or harassment based on racial or ethnic background, citizenship status, religion (or lack thereof), political affiliation, gender identity/expression, sexual orientation, dis/ability status, age, appearance or body size will not be tolerated. **We do not tolerate harassment by and/or of members of our community in any form**.
 
