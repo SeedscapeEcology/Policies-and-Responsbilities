@@ -26,7 +26,7 @@ I strive to maintain an open and inclusive environment in which collaborative le
 
 * Take advantage of the training opportunities offered to graduate students by the [Office of Research and Graduate Studies](http://rgs.usu.edu/grts/), [Climate Adaptation Science Program](https://climateadaptation.usu.edu), and the [Ecology Center](http://ecology.usu.edu).
 
-* For more information on institutional policies, follow the respective links on graduate student [policies and handbook of the Department of Biology](https://biology.usu.edu/education/graduate-program/prospective_students) and [requirements for the Ecology Center](http://ecology.usu.edu/for_students/index).
+* For more information on institutional policies, follow the respective links for the graduate student [policies and handbook of the Department of Biology](https://biology.usu.edu/education/graduate-program/prospective_students) and [requirements for the Ecology Center](http://ecology.usu.edu/for_students/index).
 
 
 ## Your first day
