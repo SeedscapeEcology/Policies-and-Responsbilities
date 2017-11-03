@@ -22,7 +22,7 @@ I strive to maintain an open and inclusive environment in which collaborative le
 
 * I expect everyone to [write, write, write](http://www.simonqueenborough.info/assets/pubs/bes-bulletin/2012-BESbulletin-writing.pdf)! We will do this in both informally and formally through weekly reflections, blog posts, summarizing ideas, applying for grants, and writing manuscripts.
 
-* I expect you to get professional and academic advice from  as well as others, as having a diversity of feedback will better inform each decision. I expect you will seriously consider this advice and make your own informed decision.
+* I expect you to get professional and academic advice from me as well as others, as having a diversity of feedback will better inform each decision. I expect you will seriously consider this advice and make your own informed decision.
 
 * Take advantage of the training opportunities offered to graduate students by the [Office of Research and Graduate Studies](http://rgs.usu.edu/grts/), [Climate Adaptation Science Program](https://climateadaptation.usu.edu), and the [Ecology Center](http://ecology.usu.edu).
 
