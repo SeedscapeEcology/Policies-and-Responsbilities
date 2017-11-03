@@ -53,7 +53,7 @@ An additional example from the Whitaker Lab:
 
 
 ## Miscellaneous
-Some interesting articles on the importance of [stupidity] (http://jcs.biologists.org/content/121/11/1771) and  [failure] (http://www.southernfriedscience.com/the-need-to-fail/) in research.
+Some interesting articles on the importance of [stupidity](http://jcs.biologists.org/content/121/11/1771) and  [failure](http://www.southernfriedscience.com/the-need-to-fail/) in research.
 
 
 > The material in these guidelines is derived from "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)" by Dr. Kirstie Whitaker and the Whitaker Lab team, used under CC BY 4.0, and further inspired by the "[Bahlai Lab General Guidelines](https://github.com/BahlaiLab/Policies/blob/master/general_guidelines.md)" by Dr. Christie Bahlai. The Beckman Research Group General Guidelines are licensed under CC BY 4.0 by Dr. Noelle G. Beckman.
