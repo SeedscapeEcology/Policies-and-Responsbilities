@@ -10,7 +10,7 @@ We are particularly motivated to support new or anxious collaborators, people wh
 
 To make clear what is expected, we ask all members of our community to conform to the following Code of Conduct.
 
-* All communication Ñ online or in person Ñ should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate at any time.
+* All communication - online or in person - should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate at any time.
 
 * Be kind to others. Do not insult or put down other contributors.
 
@@ -24,7 +24,7 @@ Unaceptable behavior includes, but is not limited to: offensive verbal comments 
 
 ***Participants asked to stop any harassing behavior or discriminatory behavior are expected to comply immediately.***
 
-Members of the community who violate these rules Ñ no matter how much they have contributed to the Beckman Research Group, or how specialised their skill set Ñ will be approached by Noelle Beckman. If inappropriate behaviour persists then the issue will be escalated according to procedures in Utah State's policy on [Title IX/Affirmative Action](http://aaeo.usu.edu/)
+Members of the community who violate these rules - no matter how much they have contributed to the Beckman Research Group, or how specialised their skill set - will be approached by Noelle Beckman. If inappropriate behaviour persists then the issue will be escalated according to procedures in Utah State's policy on [Title IX/Affirmative Action](http://aaeo.usu.edu/)
 
 **To report an issue** please contact [Noelle Beckman](https://github.com/seedscape). All communication will be treated as confidential.
 
