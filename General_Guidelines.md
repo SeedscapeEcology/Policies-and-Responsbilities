@@ -1,5 +1,5 @@
 # General Guidelines
-Welcome to the [Beckman Research Group](www.noellebeckman.com)! Research questions in the group are interdisciplinary, drawing on ecology, behavior, and evolution and involve mathematical, statistical, and empirical approaches. Our aim is to produce actionable science that contributes solutions to socio-environmental problems, disseminate our results to the broader community, and promote a diverse and inclusive community that welcomes and respects diverse backgrounds and perspectives.
+Welcome to the [Beckman Research Group](www.noellebeckman.com)! Research questions in the group are interdisciplinary, drawing on ecology, behavior, and evolution, and involve mathematical, statistical, and empirical approaches. Our aim is to produce actionable science that contributes solutions to socio-environmental problems, disseminate our results to the broader community, and promote a diverse and inclusive community that welcomes and respects diverse backgrounds and perspectives.
 
 This document is a work-in-progress, and I expect it will evolve with the group. Please let Noelle know if you have comments or suggestions.
 
