@@ -35,7 +35,7 @@ I strive to maintain an open and inclusive environment that promotes collaborati
 
 * Join the Seedscape Ecology [Slack channel](https://seedscapeecology.slack.com) by asking Noelle to send you an invite.
 
-* Set up the weekly reflections by following the guidelines in the [Setting-up-your-weekly-meetings.md]() file. This will include a summary of your Individual Development Plan as well.
+* Set up the weekly reflections by following the guidelines in the [Setting-up-your-weekly-reflections.md]() file. This will include a summary of your Individual Development Plan as well.
 
 
 ## Blog Posts
@@ -54,6 +54,8 @@ An additional example from the Whitaker Lab:
 
 ## Miscellaneous
 Some interesting articles on the importance of [stupidity](http://jcs.biologists.org/content/121/11/1771) and  [failure](http://www.southernfriedscience.com/the-need-to-fail/) in research.
+
+See additional [resources on my website](http://seedscape.github.io/BeckmanLab/Resources.html) for research and professional development.
 
 
 > The material in these guidelines is partially derived from "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)" by Dr. Kirstie Whitaker and the Whitaker Lab team, used under CC BY 4.0, and further inspired by the "[Bahlai Lab General Guidelines](https://github.com/BahlaiLab/Policies/blob/master/general_guidelines.md)" by Dr. Christie Bahlai. The Beckman Research Group General Guidelines are licensed under CC BY 4.0 by Dr. Noelle G. Beckman.
