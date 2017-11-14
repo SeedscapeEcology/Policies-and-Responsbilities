@@ -35,7 +35,7 @@ I strive to maintain an open and inclusive environment that promotes collaborati
 
 * Join the Seedscape Ecology [Slack channel](https://seedscapeecology.slack.com) by asking Noelle to send you an invite.
 
-* Set up the weekly reflections by following the guidelines in the [Setting-up-your-weekly-reflections.md]() file. This will include a summary of your Individual Development Plan as well.
+* Set up the weekly reflections by following the guidelines in the [Setting-up-your-weekly-reflections.md](https://github.com/SeedscapeEcology/Onboarding/blob/master/Setting-up-your-weekly-reflections.md) file. This will include a summary of your Individual Development Plan as well.
 
 
 ## Blog Posts
