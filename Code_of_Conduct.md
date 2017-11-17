@@ -20,7 +20,7 @@ To make clear what is expected, we ask all members of our community to conform t
 
 * Watch out for [microaggressions](https://en.wikipedia.org/wiki/Microaggression). Be aware that your actions can be hurtful to others and contribute to a negative environment even if you had no intent of harm. Listen. Offer a genuine apology. Commit to learning and doing better.
 
-Unaceptable behavior includes, but is not limited to: offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
+Unacceptable behavior includes, but is not limited to: offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
 
 ***Participants asked to stop any harassing behavior or discriminatory behavior are expected to comply immediately.***
 
