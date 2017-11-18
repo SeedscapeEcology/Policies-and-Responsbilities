@@ -14,7 +14,7 @@ I strive to maintain an open and inclusive environment that promotes collaborati
 
 * Initially, we will meet one-on-one every week for approximately an hour to discuss goals, directions and progress; the regularity, length, and objective of these meetings will shift as you progress in your career. 
 
-* During your time in the group, we will explore opportunities to expand and strengthen your skillset and advance your short- and long-term goals. Within the first month, you will fill out an Individual Development Form ([graduate students](https://www.unl.edu/gradstudies/current/development/idp), [postdocs](https://postdoc.unl.edu/current/idp_review/)) and meet with Noelle to discuss shared expectations and goals. We will revisit this on a regular basis to ensure you are making progress, and, if necessary, adjust the plan. 
+* During your time in the group, we will explore opportunities to expand and strengthen your skillset and advance your short- and long-term goals. Within the first month, you will fill out an Individual Development Form ([graduate students](https://www.unl.edu/gradstudies/current/development/idp), [postdocs](https://postdoc.unl.edu/current/idp_review/)) and meet with Noelle to discuss shared expectations and goals. We will revisit this on a regular basis to ensure you are making progress, and, if necessary, adjust the plan. Here is some advice on goal setting from [USU's Academic Success Center](https://www.usu.edu/asc/assistance/pdf/goal_setting.pdf).
 
 * I trust everyone in the group (including me) to be hardworking, respectful, conscientious, kind, and open to learning. I expect you to manage your own time and projects, but will share time management strategies that I've learned.
 
