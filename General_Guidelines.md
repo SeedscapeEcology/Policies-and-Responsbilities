@@ -3,7 +3,6 @@ Welcome to the [Beckman Research Group](www.noellebeckman.com)! Research questio
 
 This document is a work-in-progress, and I expect it will evolve with the group. Please let Noelle know if you have comments or suggestions.
 
-
 ## Mentoring philosophy  
 
 As a mentor, I offer guidance and support along your graduate career to help you achieve your individual goals. In my research group, I encourage an interdisciplinary approach and provide a stimulating and challenging scientific environment in which members can exchange ideas, pursue independent research, and establish collaborations across disciplines. I adjust my advising style to your level of preparation and independence, and will give advice on both research and career-related issues such as professional development, career options, and work-life balance. To help you build your scientific network, I will connect you with colleagues who might become potential collaborators or mentors that can offer additional perspectives. While I am closely involved in the research of undergraduate and master's students, I expect a high level of independence from doctoral students and postdocs. 
@@ -14,13 +13,13 @@ I strive to maintain an open and inclusive environment that promotes collaborati
 
 * Initially, we will meet one-on-one every week for approximately an hour to discuss goals, directions and progress; the regularity, length, and objective of these meetings will shift as you progress in your career. 
 
-* During your time in the group, we will explore opportunities to expand and strengthen your skillset and advance your short- and long-term goals. Within the first month, you will fill out an Individual Development Form ([graduate students](https://www.unl.edu/gradstudies/current/development/idp), [postdocs](https://postdoc.unl.edu/current/idp_review/)) and meet with Noelle to discuss shared expectations and goals. We will revisit this on a regular basis to ensure you are making progress, and, if necessary, adjust the plan. Here is some advice on goal setting from [USU's Academic Success Center](https://www.usu.edu/asc/assistance/pdf/goal_setting.pdf).
+* During your time in the group, we will explore opportunities to expand and strengthen your skillset and advance your short- and long-term goals. Within the first month, you will fill out an [Individual Development Form](https://github.com/SeedscapeEcology/Onboarding/blob/master/Setting-up-your-IDP.md) and meet with Noelle to discuss shared expectations and goals. We will revisit this on a regular basis to ensure you are making progress, and, if necessary, adjust the plan. For more information on the IDP,  read over resources - including blank templates - for [graduate students](https://www.unl.edu/gradstudies/current/development/idp) and [postdocs](https://postdoc.unl.edu/current/idp_review/) from the University of Nebraska, the [web-based career-planning tool](http://www.sciencemag.org/careers/2013/05/myidp) provided by *Science*, and advice on goal setting from [USU's Academic Success Center](https://www.usu.edu/asc/assistance/pdf/goal_setting.pdf)..
 
 * I trust everyone in the group (including me) to be hardworking, respectful, conscientious, kind, and open to learning. I expect you to manage your own time and projects, but will share time management strategies that I've learned.
 
 * I expect everyone to be active members of the department, start building your scientific network, and have fun! I encourage you to attend the Biology and Ecology Center seminars, sign up to meet with speakers, and participate in social events.
 
-* I expect everyone to [write, write, write](http://www.simonqueenborough.info/assets/pubs/bes-bulletin/2012-BESbulletin-writing.pdf)! We will do this both formally and informally through weekly reflections, blog posts, idea summaries, grant applications, and manuscripts.
+* I expect everyone to [write, write, write](http://www.simonqueenborough.info/assets/pubs/bes-bulletin/2012-BESbulletin-writing.pdf)! We will do this both formally and informally through weekly reflections, blog posts, idea summaries, grant applications, and manuscripts. I recommend reading [How to Write A Lot: A Practical Guide to Productive Academic Writing](http://www.apa.org/pubs/books/4441010.aspx).
 
 * I expect you to get professional and academic advice from me as well as others, because diverse feedback makes for better decisions. You should seriously consider any advice, but ultimately you will make your own informed decision.
 
@@ -35,21 +34,32 @@ I strive to maintain an open and inclusive environment that promotes collaborati
 
 * Join the Seedscape Ecology [Slack channel](https://seedscapeecology.slack.com) by asking Noelle to send you an invite.
 
-* Set up the weekly reflections by following the guidelines in the [Setting-up-your-weekly-reflections.md](https://github.com/SeedscapeEcology/Onboarding/blob/master/Setting-up-your-weekly-reflections.md) file. This will include a summary of your Individual Development Plan as well.
+* Set up the weekly reflections by following the guidelines in the [Setting-up-your-weekly-reflections.md](https://github.com/SeedscapeEcology/Onboarding/blob/master/Setting-up-your-weekly-reflections.md) file. 
+
+* Create and fill out your [Individual Development Plan](https://github.com/SeedscapeEcology/Onboarding/blob/master/Setting-up-your-IDP.md) and add to your folder.
+
+* Join the [Seedscape Blog](https://seedscapeblog.wordpress.com/) by asking Noelle to invite you as an author.
 
 
 ## Blog Posts
 
-** Work in progress**
+Each member of the research group will contribute at least **1 blog post** per semester for the  [Seedscape Blog](https://seedscapeblog.wordpress.com/). Blog posts are a great way to engage with the scientific community, explore ideas, and share your interests with a broader community. If your writing is related to seed dispersal, this will also be posted to [CoDisperse blog](http://codisperse.weebly.com/blog), and if your writing is related to research in Latin America, this will be translated to Spanish and be posted to [Verde Elemental](http://verde-elemental.org/).
 
-Opportunities to contribute to academic-related writings include:
-* the [Seedscape Blog](https://seedscapeblog.wordpress.com/).
-* [Verde Elemental](http://verde-elemental.org/) - focused on research in Latin America
-* [CoDisperse blog](http://codisperse.weebly.com/blog) - focused on seed dispersal
+Potential topics include:
 
+1. Attend a seminar, read one of the speaker's papers, and meet with them. Types of questions that could be addressed:
+* What kinds of research questions do they focus on?
+* What results have they found? 
+* What do they find most interesting in their work or career?
+* What was their academic journey - how did they get to where they are now?
+* What career or research advice do they have?
 
-An additional example from the Whitaker Lab:
-1. [Meet 3 people at the Turing Institute](https://github.com/WhitakerLab/Onboarding/blob/master/BLOGGING_EXERCISES/01-MeetThreePeople.md)
+2. Summaries of your research progress:
+* Stories from the field
+* Stories in the adventures of modeling
+* Summarize and synthesize results from your literature search. Write about a few related papers that you find interesting.
+
+3. Career related posts
 
 
 ## Miscellaneous
