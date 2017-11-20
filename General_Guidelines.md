@@ -61,6 +61,7 @@ Potential topics include:
 
 3. Career related posts
 
+4. Summaries of conferences, workshops, etc. 
 
 ## Miscellaneous
 Some interesting articles on the importance of [stupidity](http://jcs.biologists.org/content/121/11/1771) and  [failure](http://www.southernfriedscience.com/the-need-to-fail/) in research.
