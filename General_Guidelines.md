@@ -34,6 +34,8 @@ I strive to maintain an open and inclusive environment that promotes collaborati
 
 * Join the Seedscape Ecology [Slack channel](https://seedscapeecology.slack.com) by asking Noelle to send you an invite.
 
+* Sign up for a free [GitHub account](https://help.github.com/articles/signing-up-for-a-new-github-account/); students can get [additional developer tools](https://education.github.com) for free.
+
 * Set up the weekly reflections by following the guidelines in the [Setting-up-your-weekly-reflections.md](https://github.com/SeedscapeEcology/Onboarding/blob/master/Setting-up-your-weekly-reflections.md) file. 
 
 * Create and fill out your [Individual Development Plan](https://github.com/SeedscapeEcology/Onboarding/blob/master/Setting-up-your-IDP.md) and add to your folder.
