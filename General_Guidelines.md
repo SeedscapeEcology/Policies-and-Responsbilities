@@ -65,6 +65,8 @@ Potential topics include:
 
 4. Summaries of conferences, workshops, etc. 
 
+5. Make a video explaining your research([an example](https://youtu.be/r6sij88BCMk)) or your research project ([some examples](https://www.youtube.com/channel/UCvGeUl4r0EYvjV3lZBiSRkw/videos?view_as=subscriber) and blog about it!
+
 ## Miscellaneous
 Some interesting articles on the importance of [stupidity](http://jcs.biologists.org/content/121/11/1771) and  [failure](http://www.southernfriedscience.com/the-need-to-fail/) in research.
 
