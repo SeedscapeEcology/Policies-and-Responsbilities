@@ -44,6 +44,8 @@ I strive to maintain an open and inclusive environment that promotes collaborati
 
 * Create and fill out your [Individual Development Plan](https://github.com/SeedscapeEcology/Onboarding/blob/master/Setting-up-your-IDP.md) and add to your folder.
 
+* Read over the [source code, data, and reproducibility guidelines](https://github.com/SeedscapeEcology/Onboarding/blob/master/Reproducibility.md).
+
 * Join the [Seedscape Blog](https://seedscapeblog.wordpress.com/) by asking Noelle to invite you as an author.
 
 
