@@ -19,6 +19,8 @@ I strive to maintain an open and inclusive environment that promotes collaborati
 
 * I expect everyone to be active members of the department, start building your scientific network, and have fun! I encourage you to attend the Biology and Ecology Center seminars, sign up to meet with speakers, and participate in social events.
 
+* I expect everyone to attend weekly lab meetings. Currently, we meet weekly with [Dr. Peter Adler's group](https://qcnr.usu.edu/labs/adler_lab/index) and with the [Math Bio group](https://biomath.usu.edu/people/faculty/index). I would like everyone to present in one of the lab meetings at least once a year. Lab presentations are a great way to enhance presentation skills and gain feedback on your work.
+
 * I expect everyone to [write, write, write](http://www.simonqueenborough.info/assets/pubs/bes-bulletin/2012-BESbulletin-writing.pdf)! We will do this both formally and informally through weekly reflections, blog posts, idea summaries, grant applications, and manuscripts. I recommend reading [How to Write A Lot: A Practical Guide to Productive Academic Writing](http://www.apa.org/pubs/books/4441010.aspx).
 
 * I expect you to get professional and academic advice from me as well as others, because diverse feedback makes for better decisions. You should seriously consider any advice, but ultimately you will make your own informed decision.
@@ -32,7 +34,9 @@ I strive to maintain an open and inclusive environment that promotes collaborati
 
 * Read the Beckman Research group [code of conduct](https://github.com/SeedscapeEcology/Policies/blob/master/Code_of_Conduct.md). Chat with Noelle if you have any questions about group norms or would like to add or change anything in the code of conduct. 
 
-* Join the Seedscape Ecology [Slack channel](https://seedscapeecology.slack.com) by asking Noelle to send you an invite.
+* We use **Slack** to communicate within the research group. This helps keep communications organized and in one place. Join the Seedscape Ecology [Slack channel](https://seedscapeecology.slack.com) by asking Noelle to send you an invite.
+
+* We use a shared google calendar to share the time and locations of seminars and meetings (e.g. lab meetings) relevant for the research group. If you will be out of town for work or vacation, please note this in the calendar. Join the Seedscape Ecology [Google Shared Calendar](https://calendar.google.com/calendar?cid=dXN1LmVkdV9rNjZnNXM5cmFraTBhbGl1Ym9sOTgzN2Njc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) by asking Noelle to add you.
 
 * Sign up for a free [GitHub account](https://help.github.com/articles/signing-up-for-a-new-github-account/); students can get [additional developer tools](https://education.github.com) for free.
 
