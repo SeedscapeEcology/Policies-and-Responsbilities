@@ -38,7 +38,7 @@ I strive to maintain an open and inclusive environment that promotes collaborati
 
 * We use a shared google calendar to share the time and locations of seminars and meetings (e.g. lab meetings) relevant for the research group. If you will be out of town for work or vacation, please note this in the calendar. Join the Seedscape Ecology [Google Shared Calendar](https://calendar.google.com/calendar?cid=dXN1LmVkdV9rNjZnNXM5cmFraTBhbGl1Ym9sOTgzN2Njc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) by asking Noelle to add you.
 
-* Sign up for a free [GitHub account](https://help.github.com/articles/signing-up-for-a-new-github-account/); students can get [additional developer tools](https://education.github.com) for free.
+* Sign up for a free [GitHub account](https://help.github.com/articles/signing-up-for-a-new-github-account/). If eligible, apply for a [free educational account](https://education.github.com/discount_requests/new) to create private repositories; students can get [additional developer tools](https://education.github.com) for free. Resources for learning Version Control with Git will be added.
 
 * Set up the weekly reflections by following the guidelines in the [Setting-up-your-weekly-reflections.md](https://github.com/SeedscapeEcology/Onboarding/blob/master/Setting-up-your-weekly-reflections.md) file. 
 
