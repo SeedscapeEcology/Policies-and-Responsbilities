@@ -34,7 +34,7 @@ This sentence is from [Bastian Greshake's](https://github.com/gedankenstuecke) e
 
 > While I may be sending this email outside my normal office hours, I have no expectation to receive a reply outside yours.
 
-The number of hours that group members choose to work is up to them. We are each welcome to send work-related emails or pull requests over the weekend or late at night, but no group member is required to reply to them outside of their typical work hours (9am to 5pm).
+The hours that group members choose to work is up to them. We are each welcome to send work-related emails or pull requests over the weekend or late at night, but no group member is required to reply to them outside of their typical work hours (9am to 5pm).
 
 Research group members are welcome to work flexibly for any reason. Ideally, all group members will schedule at least a few hours each week to overlap with Noelle's presence, to stay in touch with any challenges or successes, but it is the policy of the Beckman Research Group that every member is already self-motivated and doesn't need to work a traditional 9 to 5 day in order to meet their goals.
 
