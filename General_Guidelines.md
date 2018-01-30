@@ -76,6 +76,8 @@ Potential topics include:
 ## Miscellaneous
 Some interesting articles on the importance of [stupidity](http://jcs.biologists.org/content/121/11/1771) and  [failure](http://www.southernfriedscience.com/the-need-to-fail/) in research.
 
+[Uri Alon on the importance of creativity and "Yes, and...." in research](https://www.ted.com/talks/uri_alon_why_truly_innovative_science_demands_a_leap_into_the_unknown?rss&utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare)
+
 See additional [resources on my website](http://seedscape.github.io/BeckmanLab/Resources.html) for research and professional development.
 
 
