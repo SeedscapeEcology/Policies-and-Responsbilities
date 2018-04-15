@@ -25,6 +25,8 @@ I strive to maintain an open and inclusive environment that promotes collaborati
 
 * I expect you to get professional and academic advice from me as well as others, because diverse feedback makes for better decisions. You should seriously consider any advice, but ultimately you will make your own informed decision.
 
+* Each graduate student will set up their own website that is an online version of their CV. The website should showcase your research and teaching interests and achievements. There are many options to create websites, including [Github](https://pages.github.com), [Weebly](https://www.weebly.com), or [Wordpress](https://wordpress.com). Read over [Dr. Alex Bond's advice on why one should have a personal academic website and how to build it](https://labandfield.wordpress.com/2013/06/19/personal-academic-websites-for-faculty-grad-students-the-why-what-and-how/). 
+
 * You should take advantage of the training opportunities offered to graduate students by the [Office of Research and Graduate Studies](http://rgs.usu.edu/grts/), [Climate Adaptation Science Program](https://climateadaptation.usu.edu), and the [Ecology Center](http://ecology.usu.edu).
 
 * For more information on institutional policies, read over the graduate student [policies and handbook of the Department of Biology](https://biology.usu.edu/education/graduate-program/prospective_students) and [requirements for the Ecology Center](http://ecology.usu.edu/for_students/index).
