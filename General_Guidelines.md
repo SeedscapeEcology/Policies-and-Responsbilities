@@ -48,6 +48,8 @@ I strive to maintain an open and inclusive environment that promotes collaborati
 
 * Read over the [source code, data, and reproducibility guidelines](https://github.com/SeedscapeEcology/Onboarding/blob/master/Reproducibility.md).
 
+* Read over the [Authorship Guidelines](https://github.com/SeedscapeEcology/Policies/blob/master/Authorship_Guidelines.md).
+
 * Join the [Seedscape Blog](https://seedscapeblog.wordpress.com/) by asking Noelle to invite you as an author.
 
 * Tweet from [Seedscape Ecology Research Group](https://twitter.com/SeedscapeGroup) by asking Noelle to invite you as a contributor. Login to [TweetDeck](https://help.twitter.com/en/using-twitter/tweetdeck-teams) to see the shared account.
