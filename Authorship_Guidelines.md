@@ -17,7 +17,7 @@ The aim is to ensure every team member that contributes sufficiently to a manusc
 - generate new text
 
 
-##Author responsibilities
+## Author responsibilities
 - **Lead author(s)** is(are) responsible for communicating regularly with co-authors on the progress of the research. They are expected to facilitate discussions on authorship guidelines before, during, and after the project. 
 - **Corresponding author** is responsible for managing the submission, including sharing the final manuscript and cover letter with all co-authors before submission, submitting the manuscript, forwarding manuscript decisions and reviews to all co-authors, and responding to reviewer comments.
 - **Critical review of manuscript.** All authors must critically review and revise the manuscript at least once. Conducting grammatical edits and including comments of suggested revisions does not count. 
