@@ -17,11 +17,11 @@ I strive to maintain an open and inclusive environment that promotes collaborati
 
 * I trust everyone in the group (including me) to be hardworking, respectful, conscientious, kind, and open to learning. I expect you to manage your own time and projects, but will share time management strategies that I've learned.
 
-* I expect everyone to be active members of the department, start building your scientific network, and have fun! I encourage you to attend the Biology and Ecology Center seminars, sign up to meet with speakers, and participate in social events.
+* I expect everyone to be active members of the department, start building your scientific network, and have fun! You are expected to attend departmental and Ecology Center seminars, sign up to meet with speakers, and participate in social events.
 
 * I expect everyone to attend weekly lab meetings. Currently, we meet weekly with [Dr. Peter Adler's group](https://qcnr.usu.edu/labs/adler_lab/index) and with the [Math Bio group](https://biomath.usu.edu/people/faculty/index). I would like everyone to present in one of the lab meetings at least once a year. Lab presentations are a great way to enhance presentation skills and gain feedback on your work.
 
-* I expect everyone to [write, write, write](http://www.simonqueenborough.info/assets/pubs/bes-bulletin/2012-BESbulletin-writing.pdf)! We will do this both formally and informally through weekly reflections, blog posts, idea summaries, grant applications, and manuscripts. I recommend reading [How to Write A Lot: A Practical Guide to Productive Academic Writing](http://www.apa.org/pubs/books/4441010.aspx).
+* I expect everyone to [write, write, write](http://www.simonqueenborough.info/assets/pubs/bes-bulletin/2012-BESbulletin-writing.pdf)! We will do this both formally and informally through weekly reflections, blog posts, idea summaries, grant applications, and manuscripts. I recommend reading [How to Write A Lot: A Practical Guide to Productive Academic Writing](http://www.apa.org/pubs/books/4441010.aspx). *Please send me drafts of fellowship and grant applications and inform me of letters of recommedation at least one month before the deadline.* This will allow ample time for several rounds of critical review and revision. 
 
 * I expect you to get professional and academic advice from me as well as others, because diverse feedback makes for better decisions. You should seriously consider any advice, but ultimately you will make your own informed decision.
 
