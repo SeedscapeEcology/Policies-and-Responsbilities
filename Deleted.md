@@ -1,1 +1,0 @@
-Send a virtual thank you or congratulatory note to team members that go above and beyond expectations with HeyTaco. If someone's paper gets accepted or someone helps you out with a programming question, congratulate or thank them via Slack. When one member accumulates enough points, they take the lab out to lunch (Noelle pays).
