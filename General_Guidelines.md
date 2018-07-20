@@ -59,6 +59,10 @@ I strive to maintain an open and inclusive environment that promotes collaborati
 
 * If you are working in the field/lab, ask Noelle to invite you to [Quartzy](https://www.quartzy.com) for the inventory of field and lab supplies.
 
+## Safetey Training
+Read over USU's and the Department of Biology's [safety policies](http://www.biology.usu.edu/safety/biology_dept_safety_resources) and take the required training for research labs and field work if this is required for your research. Please fill out the Biology Department Safety Declaration under the "Training" tab. If you are working in Panama, read over the [Pre-trip Advice](https://github.com/SeedscapeEcology/Onboarding/blob/master/PreTripAdvice_Panama.md).
+
+
 ## Blog Posts
 
 Each member of the research group will contribute at least **1 blog post** per semester for the  [Seedscape Blog](https://seedscapeblog.wordpress.com/). Blog posts are a great way to engage with the scientific community, explore ideas, and share your interests with a broader community. If your writing is related to seed dispersal, this will also be posted to [CoDisperse blog](http://codisperse.weebly.com/blog), and if your writing is related to research in Latin America, this will be translated to Spanish and be posted to [Verde Elemental](http://verde-elemental.org/).
