@@ -33,8 +33,7 @@ The aim is to ensure every team member that contributes sufficiently to a manusc
 
 [Duffy, M. June 27, 2016. Last and corresponding authorship practices in ecology: Part 1. *Dynamic Ecology.*](https://dynamicecology.wordpress.com/2016/06/27/last-and-corresponding-authorship-practices-in-ecology-part-1/)
 
-[Duffy, M. June 28, 2016. What factors influence views on last authorship in ecology? *Dynamic Ecology.*]
-(https://dynamicecology.wordpress.com/2016/06/28/what-factors-influence-views-on-last-authorship-in-ecology/)
+[Duffy, M. June 28, 2016. What factors influence views on last authorship in ecology? *Dynamic Ecology.*](https://dynamicecology.wordpress.com/2016/06/28/what-factors-influence-views-on-last-authorship-in-ecology/)
 
 [Duffy, M. September 21, 2016. Fun ways of deciding authorship order. *Dynamic Ecology.*](https://dynamicecology.wordpress.com/2016/09/21/fun-ways-of-deciding-authorship-order/)
 
