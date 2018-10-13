@@ -4,7 +4,7 @@ We adhere to the [ESA Code of Ethics on authorship](https://www.esa.org/esa/abou
 
 Discussions on authorship is an interative process, and we encourage that they happen before initiation of a research project and continue throughout all stages of the project. These guidelines are to provide a basis for an open and continuing discussion on authorship among collaborators. They are inspired by [Oliver *et al.* (2018)](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecs2.2206), other sources listed below, and past collaborative experiences. 
 
-The aim is to ensure every team member that contributes sufficiently to a manuscript receives co-authorship. What constitutes as substantial contribution for co-authorship should be discussed before the initiation of the research project. Team members shoud discuss author responsibilities and criteria to assign author order. [Oliver *et al.* (2018)](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecs2.2206) provide a nice example of guidelines that clearly define author responsibilities and the types of contributions that constitute co-authorship (see Appendix 1). 
+The aim is to ensure every team member that contributes sufficiently to a manuscript receives co-authorship. What constitutes as substantial contribution for co-authorship should be discussed before the initiation of the research project. Team members shoud discuss author responsibilities and criteria to assign author order. [Oliver *et al.* (2018)](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecs2.2206) provide a nice example of guidelines that clearly define author responsibilities and the types of contributions that constitute co-authorship (see [Appendix 1](https://esajournals.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fecs2.2206&file=ecs22206-sup-0001-AppendixS1.pdf)). 
 
 ###### Below are some examples of the types of contributions that may constitute authorship:
 
@@ -18,7 +18,7 @@ The aim is to ensure every team member that contributes sufficiently to a manusc
 
 
 ## Author responsibilities
-- **Lead author(s)** is(are) responsible for communicating regularly with co-authors on the progress of the research. They are expected to facilitate discussions on authorship guidelines before, during, and after the project. 
+- **Lead author(s)** is (are) responsible for communicating regularly with co-authors on the progress of the research. They are expected to facilitate discussions on authorship guidelines before, during, and after the project. 
 - **Corresponding author** is responsible for managing the submission, including sharing the final manuscript and cover letter with all co-authors before submission, submitting the manuscript, forwarding manuscript decisions and reviews to all co-authors, and responding to reviewer comments.
 - **Critical review of manuscript.** All authors must critically review and revise the manuscript at least once. Conducting grammatical edits and including comments of suggested revisions does not count. 
 - **Approval of final version.** All authors must approve the final version of the mansucript before submission and agree to read the final version within a reasonable timeline (< 1-2 weeks) to avoid publication delays.
@@ -33,8 +33,7 @@ The aim is to ensure every team member that contributes sufficiently to a manusc
 
 [Duffy, M. June 27, 2016. Last and corresponding authorship practices in ecology: Part 1. *Dynamic Ecology.*](https://dynamicecology.wordpress.com/2016/06/27/last-and-corresponding-authorship-practices-in-ecology-part-1/)
 
-[Duffy, M. June 28, 2016. What factors influence views on last authorship in ecology? *Dynamic Ecology.*]
-(https://dynamicecology.wordpress.com/2016/06/28/what-factors-influence-views-on-last-authorship-in-ecology/)
+[Duffy, M. June 28, 2016. What factors influence views on last authorship in ecology? *Dynamic Ecology.*](https://dynamicecology.wordpress.com/2016/06/28/what-factors-influence-views-on-last-authorship-in-ecology/)
 
 [Duffy, M. September 21, 2016. Fun ways of deciding authorship order. *Dynamic Ecology.*](https://dynamicecology.wordpress.com/2016/09/21/fun-ways-of-deciding-authorship-order/)
 
