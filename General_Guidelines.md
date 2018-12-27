@@ -21,7 +21,7 @@ I strive to maintain an open and inclusive environment that promotes collaborati
 
 * I expect everyone to attend weekly lab meetings. Currently, we meet weekly with [Dr. Peter Adler's group](https://qcnr.usu.edu/labs/adler_lab/index) and with the [Math Bio group](https://biomath.usu.edu/people/faculty/index). I would like everyone to present in one of the lab meetings at least once a year. Lab presentations are a great way to enhance presentation skills and gain feedback on your work.
 
-* I expect everyone to [write, write, write](http://www.simonqueenborough.info/assets/pubs/bes-bulletin/2012-BESbulletin-writing.pdf)! We will do this both formally and informally through weekly reflections, blog posts, idea summaries, grant applications, and manuscripts. I recommend reading [How to Write A Lot: A Practical Guide to Productive Academic Writing](http://www.apa.org/pubs/books/4441010.aspx). *Please send me drafts of fellowship and grant applications and inform me of letters of recommendation at least one month before the deadline.* This will allow ample time for several rounds of critical review and revision. 
+* I expect everyone to [write, write, write](http://www.simonqueenborough.info/assets/pubs/bes-bulletin/2012-BESbulletin-writing.pdf)! We will do this both formally and informally through weekly reflections, blog posts, idea summaries, grant applications, and manuscripts. I recommend reading [How to Write A Lot: A Practical Guide to Productive Academic Writing](http://www.apa.org/pubs/books/4441010.aspx). *Please send me drafts of fellowship and grant applications and inform me of letters of recommendation at least one month before the deadline.* This will allow ample time for several rounds of critical review and revision.
 
 * I expect you to get professional and academic advice from me as well as others, because diverse feedback makes for better decisions. You should seriously consider any advice, but ultimately you will make your own informed decision.
 
@@ -29,7 +29,7 @@ I strive to maintain an open and inclusive environment that promotes collaborati
 
 * You should take advantage of the training opportunities offered to graduate students by the [Office of Research and Graduate Studies](http://rgs.usu.edu/grts/), [Climate Adaptation Science Program](https://climateadaptation.usu.edu), and the [Ecology Center](http://ecology.usu.edu).
 
-* I expect everyone in the group to continuously educate yourself and actively engage in diversity, equity, and inclusion efforts. Read books! [(A living document of resources.)](https://github.com/SeedscapeEcology/Onboarding/blob/master/DiversityEquityInclusingReadingList.md) Participate in events offered by USU ([Access and Diversity Center](http://accesscenter.usu.edu), [Aggies Think, Care, Act](https://thinkcareact.usu.edu/index), [Center for Women Gender](http://cwg.usu.edu)) or at conferences you are attending (e.g., opportunities @ [ESA](https://www.esa.org/esa/education-and-diversity/diversity-in-ecology/), [SACNAS](http://sacnas.org)).
+* I expect everyone in the group to continuously educate yourself and actively engage in diversity, equity, and inclusion efforts. Read books! [(A living document of resources.)](https://github.com/SeedscapeEcology/Onboarding/blob/master/DiversityEquityInclusionReadingList.md) Participate in events offered by USU ([Access and Diversity Center](http://accesscenter.usu.edu), [Aggies Think, Care, Act](https://thinkcareact.usu.edu/index), [Center for Women Gender](http://cwg.usu.edu)) or at conferences you are attending (e.g., opportunities @ [ESA](https://www.esa.org/esa/education-and-diversity/diversity-in-ecology/), [SACNAS](http://sacnas.org)).
 
 * Please see the [Group-Resources](https://drive.google.com/drive/folders/1HRavPb42ZuiRRsGHOGQLoWA0pSXaoQxE?usp=sharing) folder on Google Drive for schedules, grants, and other resources relevant to the research group.
 
@@ -63,7 +63,7 @@ I strive to maintain an open and inclusive environment that promotes collaborati
 
 * If you are working in the field/lab, ask Noelle to invite you to [Quartzy](https://www.quartzy.com) for the inventory of field and lab supplies.
 
-## Safetey Training
+## Safety Training
 Read over USU's and the Department of Biology's [safety policies](http://www.biology.usu.edu/safety/biology_dept_safety_resources) and take the required training for research labs and field work if this is required for your research. Please fill out the Biology Department Safety Declaration under the "Training" tab. If you are working in Panama, read over the [Pre-trip Advice](https://github.com/SeedscapeEcology/Onboarding/blob/master/PreTripAdvice_Panama.md).
 
 
