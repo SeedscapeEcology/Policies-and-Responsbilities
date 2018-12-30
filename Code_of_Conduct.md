@@ -26,7 +26,7 @@ Unacceptable behavior includes, but is not limited to: offensive verbal comments
 
 Members of the community who violate these rules - no matter how much they have contributed to the Beckman Research Group, or how specialised their skill set - will be approached by Noelle Beckman. If inappropriate behaviour persists then the issue will be escalated according to procedures in Utah State's policy on [Title IX/Affirmative Action](http://aaeo.usu.edu/)
 
-**To report an issue** please contact [Noelle Beckman](https://github.com/seedscape). All communication will be treated as confidential.
+**To report an issue** please contact [Noelle Beckman](https://github.com/seedscape). All communication will be treated as confidential. Note, as a USU employee, I am required to report information regarding sexual misconduct to the USU Title IX Coordinator. 
 
 ### Flexible working hours
 

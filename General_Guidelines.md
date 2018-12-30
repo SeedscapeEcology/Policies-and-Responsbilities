@@ -31,9 +31,10 @@ I strive to maintain an open and inclusive environment that promotes collaborati
 
 * I expect everyone in the group to continuously educate yourself and actively engage in diversity, equity, and inclusion efforts. Read books! [(A living document of resources.)](https://github.com/SeedscapeEcology/Onboarding/blob/master/DiversityEquityInclusingReadingList.md) Participate in events offered by USU ([Access and Diversity Center](http://accesscenter.usu.edu), [Aggies Think, Care, Act](https://thinkcareact.usu.edu/index), [Center for Women Gender](http://cwg.usu.edu)) or at conferences you are attending (e.g., opportunities @ [ESA](https://www.esa.org/esa/education-and-diversity/diversity-in-ecology/), [SACNAS](http://sacnas.org)). 
 
-* Please see the [Group-Resources](https://drive.google.com/drive/folders/1HRavPb42ZuiRRsGHOGQLoWA0pSXaoQxE?usp=sharing) folder on Google Drive for schedules, grants, and other resources relevant to the research group.
 
-* For more information on institutional policies, read over the graduate student [policies and handbook of the Department of Biology](https://biology.usu.edu/education/graduate-program/prospective_students) and [requirements for the Ecology Center](http://ecology.usu.edu/for_students/index).
+* For more information on institutional policies, expectations, and resources, read over the graduate student [policies and handbook of the Department of Biology](https://biology.usu.edu/education/graduate-program/prospective_students), [requirements for the Ecology Center](http://ecology.usu.edu/for_students/index), and the [resources for Current Students from the Office of Research and Graduate Studies](https://rgs.usu.edu/graduateschool/current-students/). The [Graduate Program Officer](https://rgs.usu.edu/graduateschool/graduate-program-coordinators/#find-your-gpc) for your department can help with questions or concerns regarding graduate school policies and deadlines.
+
+* Finally, take care of yourself and support others. Graduate school is a time of personal and professional growth and comes with many opportunities and challenges.  [Follow this link](https://rgs.usu.edu/graduateschool/mental-health/) for resources to help you support yourself and others. If there are issues you do not feel comfortable discussing with Noelle, please contact the [Department Head](http://biology.usu.edu/about/administration/index). 
 
 
 ## Your first day
@@ -49,6 +50,8 @@ I strive to maintain an open and inclusive environment that promotes collaborati
 * Set up the weekly reflections by following the guidelines in the [Setting-up-your-weekly-reflections.md](https://github.com/SeedscapeEcology/Onboarding/blob/master/Setting-up-your-weekly-reflections.md) file. 
 
 * Create and fill out your [Individual Development Plan](https://github.com/SeedscapeEcology/Onboarding/blob/master/Setting-up-your-IDP.md) and add to your folder.
+
+* See the [Group-Resources](https://drive.google.com/drive/folders/1HRavPb42ZuiRRsGHOGQLoWA0pSXaoQxE?usp=sharing) folder on Google Drive for schedules, grants, and other resources relevant to the research group.
 
 * Read over the [source code, data, and reproducibility guidelines](https://github.com/SeedscapeEcology/Onboarding/blob/master/Reproducibility.md).
 
