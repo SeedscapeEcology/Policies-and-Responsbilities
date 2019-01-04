@@ -18,7 +18,7 @@ To make clear what is expected, we ask all members of our community to conform t
 
 * Please make an effort to create an inclusive environment for everyone. Give everyone a chance to talk and an opportunity to contribute.
 
-* Watch out for [microaggressions](https://en.wikipedia.org/wiki/Microaggression). Be aware that your actions can be hurtful to others and contribute to a negative environment even if you had no intent of harm. Listen. Offer a genuine apology. Commit to learning and doing better.
+* Watch out for microaggressions [[1](https://en.wikipedia.org/wiki/Microaggression), [2](https://www.lifescied.org/doi/full/10.1187/cbe.18-01-0011)]. Be aware that your actions can be hurtful to others and contribute to a negative environment even if you had no intent of harm. Listen. Offer a genuine apology. Commit to learning and doing better.
 
 Unacceptable behavior includes, but is not limited to: offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
 
