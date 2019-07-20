@@ -64,7 +64,9 @@ I strive to maintain an open and inclusive environment that promotes collaborati
 
 	* Share pictures on [Instagram](https://www.instagram.com/seedscape_ecology/) by asking Noelle for the password. These can be linked to twitter.
 
-* If you are working in the field/lab, ask Noelle to invite you to [Quartzy](https://www.quartzy.com) for the inventory of field and lab supplies.
+* If you are working in the field/lab, ask Noelle to invite you to [Quartzy](https://www.quartzy.com) for the inventory of field and lab supplies. Please use Quartzy to request items; once requested, everyone can comment on these items and suggest alternatives, give feedback, etc.
+
+* Please use the [Google sign-out form](https://docs.google.com/forms/d/e/1FAIpQLSfSV1s0GPbhkOe3O3JvM_f45rS28FM8Ixg-nKIeEB1iXqFC0Q/viewform?usp=sf_link) to sign-out items (e.g., books, equipment, etc). When you check-in your item, please edit the same form that you used to check out the item.
 
 ## Safetey Training
 Read over USU's and the Department of Biology's [safety policies](http://www.biology.usu.edu/safety/biology_dept_safety_resources) and take the required training for research labs and field work if this is required for your research. Please fill out the Biology Department Safety Declaration under the "Safety Training" tab. If you are working in Panama, read over the [Pre-trip Advice](https://github.com/SeedscapeEcology/Onboarding/blob/master/PreTripAdvice_Panama.md).
