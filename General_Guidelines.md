@@ -51,7 +51,7 @@ I strive to maintain an open and inclusive environment that promotes collaborati
 
 * Create and fill out your [Individual Development Plan](https://github.com/SeedscapeEcology/Onboarding/blob/master/Setting-up-your-IDP.md) and add to your folder.
 
-* See the [Group-Resources](https://usu.box.com/s/eikwy75uq5ni9a398qbru27dcyv79pgo) folder on Google Drive for schedules, grants, equipment sign-out summary sheet, and other resources relevant to the research group.
+* See the [Group-Resources](https://usu.box.com/s/eikwy75uq5ni9a398qbru27dcyv79pgo) folder on Box for schedules, grants, equipment sign-out summary sheet, and other resources relevant to the research group.
 
 * Read over the [source code, data, and reproducibility guidelines](https://github.com/SeedscapeEcology/Onboarding/blob/master/Reproducibility.md).
 
