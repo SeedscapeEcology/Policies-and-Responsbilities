@@ -51,7 +51,7 @@ I strive to maintain an open and inclusive environment that promotes collaborati
 
 * Create and fill out your [Individual Development Plan](https://github.com/SeedscapeEcology/Onboarding/blob/master/Setting-up-your-IDP.md) and add to your folder.
 
-* See the [Group-Resources](https://drive.google.com/drive/folders/1HRavPb42ZuiRRsGHOGQLoWA0pSXaoQxE?usp=sharing) folder on Google Drive for schedules, grants, equipment sign-out summary sheet, and other resources relevant to the research group.
+* See the [Group-Resources](https://usu.box.com/s/eikwy75uq5ni9a398qbru27dcyv79pgo) folder on Google Drive for schedules, grants, equipment sign-out summary sheet, and other resources relevant to the research group.
 
 * Read over the [source code, data, and reproducibility guidelines](https://github.com/SeedscapeEcology/Onboarding/blob/master/Reproducibility.md).
 
@@ -69,7 +69,7 @@ I strive to maintain an open and inclusive environment that promotes collaborati
 * Please use the [Google sign-out form](https://docs.google.com/forms/d/e/1FAIpQLSfSV1s0GPbhkOe3O3JvM_f45rS28FM8Ixg-nKIeEB1iXqFC0Q/viewform?usp=sf_link) to sign-out items (e.g., books, equipment, etc). When you check-in your item, please edit the same form that you used to check out the item.
 
 ## Safetey & Safetey Training
-Read over USU's and the Department of Biology's [safety policies](http://www.biology.usu.edu/safety/biology_dept_safety_resources) and take the required training for research labs and field work if this is required for your research. Please fill out the Biology Department Safety Declaration under the "Safety Training" tab. If you are working in Panama, read over the [Pre-trip Advice](https://github.com/SeedscapeEcology/Onboarding/blob/master/PreTripAdvice_Panama.md). Please read over relevant safety plans and resources in the [Safety folder](https://drive.google.com/drive/folders/1R819gdOQliz00tgK3byvTqGDXrY-9SRg?usp=sharing) within the Group-Resources Folder. If you are working the lab or field, please read and sign the relevant Team Member Responsibility and Disclaimer forms as well as the relevant Standard Operating Procedures.
+Read over USU's and the Department of Biology's [safety policies](http://www.biology.usu.edu/safety/biology_dept_safety_resources) and take the required training for research labs and field work if this is required for your research. Please fill out the Biology Department Safety Declaration under the "Safety Training" tab. If you are working in Panama, read over the [Pre-trip Advice](https://github.com/SeedscapeEcology/Onboarding/blob/master/PreTripAdvice_Panama.md). Please read over relevant safety plans and resources in the [Safety folder](https://usu.box.com/s/z6c5zy3u53w4jayvh18le4gcmtos5vwi) within the Group-Resources Folder. If you are working the lab or field, please read and sign the relevant Team Member Responsibility and Disclaimer forms as well as the relevant Standard Operating Procedures.
 
 
 ## Blog Posts
