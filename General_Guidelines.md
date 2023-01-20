@@ -11,7 +11,7 @@ I strive to maintain an open and inclusive environment that promotes collaborati
 
 ## Group Expectations
 
-* Initially, we will meet one-on-one every week for approximately an hour to discuss goals, directions and progress; the regularity, length, and objective of these meetings will shift as you progress in your career. 
+* Initially, we will meet one-on-one every week for approximately an hour to discuss goals, directions and progress; the regularity, length, and objective of these meetings will shift as you progress in your career but I encourage regular meetings throughout your tenure in the group (e.g., once a week or every other week). 
 
 * During your time in the group, we will explore opportunities to expand and strengthen your skillset and advance your short- and long-term goals. Within the first month, you will fill out an [Individual Development Form](https://github.com/SeedscapeEcology/Onboarding/blob/master/Setting-up-your-IDP.md) and meet with Noelle to discuss shared expectations and goals. We will revisit this on a regular basis to ensure you are making progress, and, if necessary, adjust the plan. 
 
@@ -21,7 +21,7 @@ I strive to maintain an open and inclusive environment that promotes collaborati
 
 * I expect everyone to attend weekly team meetings and present updates on their research at least once a year. Research presentations are a great way to enhance presentation skills and gain feedback on your work. We also meet with the [Math Bio group](https://biomath.usu.edu/people/faculty/index) during the academic year.
 
-* I expect everyone to [write, write, write](http://www.simonqueenborough.info/assets/pubs/bes-bulletin/2012-BESbulletin-writing.pdf)! We will do this both formally and informally through weekly reflections, blog posts, idea summaries, grant applications, and manuscripts. I recommend reading [How to Write A Lot: A Practical Guide to Productive Academic Writing](https://www.apa.org/pubs/books/4441031). *Please send me drafts of fellowship and grant applications and inform me of letters of recommedation at least one month before the deadline.* This will allow ample time for several rounds of critical review and revision. 
+* I expect everyone to [write, write, write](http://www.simonqueenborough.info/assets/pubs/bes-bulletin/2012-BESbulletin-writing.pdf)! We will do this both formally and informally through weekly reflections, blog posts, idea summaries, grant applications, and manuscripts. I recommend reading [How to Write A Lot: A Practical Guide to Productive Academic Writing](https://www.apa.org/pubs/books/4441031). *Please send me drafts of fellowship and grant applications and inform me of letters of recommedation at least two weeks before the deadline.* This will allow ample time for several rounds of critical review and revision. 
 
 * I expect you to get professional and academic advice from me as well as others, because diverse feedback makes for better decisions. You should seriously consider any advice, but ultimately you will make your own informed decision.
 
