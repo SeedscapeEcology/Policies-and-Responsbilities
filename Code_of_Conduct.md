@@ -10,9 +10,9 @@ We are particularly motivated to support new or anxious collaborators, people wh
 
 To make clear what is expected, we ask all members of our community to conform to the following Code of Conduct.
 
-* All communication - online or in person - should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate at any time.
+* All communication - online or in person - should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate at any time. 
 
-* Be kind to others. Do not insult or put down other contributors.
+* Be kind to others. Do not insult or put down other contributors. Note, we are an interdisciplinary group that have different epistemeologies, approaches, expectations, goals, etc which can lead to miscommunication and tension. Please be mindful of these differences in communication and frequently check-in on each other's assumptions. "Curiosity over assumptions"- Sarah C. Bogen.
 
 * Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
 
