@@ -5,36 +5,55 @@ This document is a work-in-progress, and I expect it will evolve with the group.
 
 ## Mentoring philosophy  
 
-As a mentor, I offer guidance and support along your graduate career to help you achieve your individual goals. In my research group, I encourage an interdisciplinary approach and provide a stimulating and challenging scientific environment in which members can exchange ideas, pursue independent research, and establish collaborations across disciplines. I adjust my advising style to your level of preparation and independence, and will give advice on both research and career-related issues such as professional development, career options, and work-life balance. To help you build your scientific network, I will connect you with colleagues who might become potential collaborators or mentors that can offer additional perspectives. While I am closely involved in the research of undergraduate and master's students, I expect a high level of independence from doctoral students and postdocs. 
+As the research group is interdisciplinary and values communicating research to diverse audiences, it provides team members a variety of opportunities to engage in research and science communication that best aligns with their academic and career goals. I encourage an interdisciplinary approach and provide a stimulating and challenging scientific environment in which members can exchange ideas, pursue independent research, and establish collaborations across disciplines. I am responsive to differences in levels of preparation and independence and adjust my advising style accordingly. I offer guidance and support along each scholar’s career path to help them achieve their individual goals and connect them with other professionals that can offer relevant advice. While I am closely involved in the research of undergraduate and master's students, I expect a high level of independence from doctoral students and postdocs. 
 
-I strive to maintain an open and inclusive environment that promotes collaborative learning and research. Each person brings unique experiences, perspectives, and skills to the group, and I hope that we will learn from one another. This diversity will lead to more creative and innovative ideas and solutions. I am continually learning and evolving strategies to successfully mentor and foster a diverse community. If you have suggestions for promoting diversity and inclusivity, then please let me (Noelle) know how we can remove barriers to ensure everyone has a rewarding, stimulating, and supportive educational experience.
+I utilize a hybrid approach to mentoring, which provides students with not just one, but several mentors. I emphasize that each person in the group, no matter the career stage, brings unique experiences, perspectives, and skills. Leadership is shared amongst the group, with team members rotating through different roles each semester. These roles—created collaboratively as a group—allow team members to take ownership of our community. Through this hybrid mentoring approach, team members develop expertise and skillsets relevant for a wide range of biological careers as well as gain diverse perspectives on career paths and options.
+
+I strive to create an inclusive and equitable environment in which collaborative learning can take place, and the integration of diverse perspectives can lead to more innovative ideas. I am continually learning and evolving strategies to successfully mentor and foster a diverse community. If you have suggestions for promoting diversity and inclusivity, then please let me (Noelle) know how we can remove barriers to ensure everyone has a rewarding, stimulating, and supportive educational experience.
+
+
 
 ## Group Expectations
 
-* Initially, we will meet one-on-one every week for approximately an hour to discuss goals, directions and progress; the regularity, length, and objective of these meetings will shift as you progress in your career but I encourage regular meetings throughout your tenure in the group (e.g., once a week or every other week). 
 
-* During your time in the group, we will explore opportunities to expand and strengthen your skillset and advance your short- and long-term goals. Within the first month, you will fill out an [Individual Development Form](https://github.com/SeedscapeEcology/Onboarding/blob/master/Setting-up-your-IDP.md) and meet with Noelle to discuss shared expectations and goals. We will revisit this on a regular basis to ensure you are making progress, and, if necessary, adjust the plan. 
+Everyone in the group will:
 
-* I trust everyone in the group (including me) to be hardworking, respectful, conscientious, kind, and open to learning. I expect you to manage your own time and projects, but will share time management strategies that I've learned.
+* Initially, meet one-on-one with Noelle every week for approximately an hour to discuss goals, directions and progress; the regularity, length, and objective of these meetings will shift as you progress in your career but I encourage regular meetings throughout your tenure in the group (e.g., once a week or every other week). 
 
-* I expect everyone to be active members of the department, start building your scientific network, and have fun! You are expected to attend departmental and Ecology Center seminars, sign up to meet with speakers, and participate in social events.
+* Explore opportunities to expand and strengthen their skillsets to advance each team members short- and long-term goals. Within the first month, you will fill out an [Individual Development Form](https://github.com/SeedscapeEcology/Onboarding/blob/master/Setting-up-your-IDP.md) and meet with Noelle to discuss shared expectations and goals. We will revisit this on a regular basis to ensure you are making progress, and, if necessary, adjust the plan. 
 
-* I expect everyone to attend weekly team meetings and present updates on their research at least once a year. Research presentations are a great way to enhance presentation skills and gain feedback on your work. We also meet with the [Math Bio group](https://biomath.usu.edu/people/faculty/index) during the academic year.
+* Be hardworking, respectful, conscientious, kind, and open to learning.
 
-* I expect everyone to [write, write, write](http://www.simonqueenborough.info/assets/pubs/bes-bulletin/2012-BESbulletin-writing.pdf)! We will do this both formally and informally through weekly reflections, blog posts, idea summaries, grant applications, and manuscripts. I recommend reading [How to Write A Lot: A Practical Guide to Productive Academic Writing](https://www.apa.org/pubs/books/4441031). *Please send me drafts of fellowship and grant applications and inform me of letters of recommedation at least two weeks before the deadline.* This will allow ample time for several rounds of critical review and revision. 
+* Each of you are mentors...
 
-* I expect you to get professional and academic advice from me as well as others, because diverse feedback makes for better decisions. You should seriously consider any advice, but ultimately you will make your own informed decision.
+* Don't be afraid to fail!
 
-* Each graduate student will set up their own website that is an online version of their CV. The website should showcase your research and teaching interests and achievements. There are many options to create websites, including [Github](https://pages.github.com), [Weebly](https://www.weebly.com), or [Wordpress](https://wordpress.com). Read over [Dr. Alex Bond's advice on why one should have a personal academic website and how to build it](https://labandfield.wordpress.com/2013/06/19/personal-academic-websites-for-faculty-grad-students-the-why-what-and-how/). 
+* Manage their own time and projects and share successful time management strategies with the group.
 
-* You should take advantage of the training opportunities offered to graduate students by the [Office of Research and Graduate Studies](http://rgs.usu.edu/grts/), [Climate Adaptation Science Program](https://climateadaptation.usu.edu), and the [Ecology Center](http://ecology.usu.edu).
+* Be active members of the department, build their scientific network, and have fun! 
 
-* I expect everyone in the group to continuously educate yourself and actively engage in diversity, equity, and inclusion efforts. Read books! [(A living document of resources.)](https://github.com/SeedscapeEcology/Onboarding/blob/master/DiversityEquityInclusionReadingList.md) Participate in events offered by USU ([Inclusion Center](http://accesscenter.usu.edu), [Aggies Think, Care, Act](https://thinkcareact.usu.edu/index), [Center for Intersectional Gender Studies & Research](http://cwg.usu.edu)) or at conferences you are attending (e.g., opportunities @ [ESA](https://www.esa.org/esa/education-and-diversity/diversity-in-ecology/), [SACNAS](http://sacnas.org)). 
+* Attend departmental and Ecology Center seminars, sign up to meet with speakers, and participate in social events. We also meet with the [Math Bio group](https://biomath.usu.edu/people/faculty/index) during the academic year.
+
+* Attend weekly team meetings. We meet weekly to discuss and evaluate journal articles in ecology, present and gain feedback on research ideas (e.g., proposals, papers, presentations), develop professional skills (e.g., elevator talks, collaborations, version-control, CVs), and discuss ethical issues (i.e., authorship, DEI). We also check in on everyone’s well-being, which has been especially important during the pandemic. 
+
+* Present updates on research progress at least once a year during the weekly team meeting. Research presentations are a great way to enhance presentation skills and gain feedback on your work. 
+
+* [Write, write, write](http://www.simonqueenborough.info/assets/pubs/bes-bulletin/2012-BESbulletin-writing.pdf)! We will do this both formally and informally through weekly reflections, blog posts, idea summaries, grant applications, and manuscripts. I recommend reading [How to Write A Lot: A Practical Guide to Productive Academic Writing](https://www.apa.org/pubs/books/4441031). 
+
+* *Please send me drafts of fellowship and grant applications and inform me of letters of recommedation at least two weeks before the deadline.* This will allow ample time for several rounds of critical review and revision. 
+
+* Get professional and academic advice from Noelle as well as others, because diverse feedback makes for better decisions. You should seriously consider any advice, but ultimately you will make your own informed decision.
+
+* Senior scholars in the group will set up their own website that is an online version of their CV. The website should showcase your research and teaching interests and achievements. There are many options to create websites, including [Github](https://pages.github.com), [Weebly](https://www.weebly.com), or [Wordpress](https://wordpress.com). Read over [Dr. Alex Bond's advice on why one should have a personal academic website and how to build it](https://labandfield.wordpress.com/2013/06/19/personal-academic-websites-for-faculty-grad-students-the-why-what-and-how/). 
+
+* Take advantage of the training opportunities offered by the [Office of Research and Graduate Studies](http://rgs.usu.edu/grts/), [Climate Adaptation Science Program](https://climateadaptation.usu.edu), and the [Ecology Center](http://ecology.usu.edu).
+
+* Continuously educate themselves and actively engage in diversity, equity, and inclusion efforts. Read books! [(A living document of resources.)](https://github.com/SeedscapeEcology/Onboarding/blob/master/DiversityEquityInclusionReadingList.md) Participate in events offered by USU ([Inclusion Center](http://accesscenter.usu.edu), [Aggies Think, Care, Act](https://thinkcareact.usu.edu/index), [Center for Intersectional Gender Studies & Research](http://cwg.usu.edu)) or at conferences you are attending (e.g., opportunities @ [ESA](https://www.esa.org/esa/education-and-diversity/diversity-in-ecology/), [SACNAS](http://sacnas.org)). 
 
 
 * For more information on institutional policies, expectations, and resources, read over the graduate student [policies and handbook of the Department of Biology](https://biology.usu.edu/education/graduate-program/prospective_students), [requirements for the Ecology Center](http://ecology.usu.edu/for_students/index), and the [resources for Current Students from the Office of Research and Graduate Studies](https://rgs.usu.edu/graduateschool/current-students/). The [Graduate Program Officer](https://rgs.usu.edu/graduateschool/graduate-program-coordinators/#find-your-gpc) for your department can help with questions or concerns regarding graduate school policies and deadlines.
 
-* Finally, take care of yourself and support others. Graduate school is a time of personal and professional growth and comes with many opportunities and challenges.  [Follow this link](https://rgs.usu.edu/graduateschool/mental-health/) for resources to help you support yourself and others. If there are issues you do not feel comfortable discussing with Noelle, please contact the [Department Head](http://biology.usu.edu/about/administration/index). 
+* Finally, take care of yourselves and support each other. Graduate school is a time of personal and professional growth and comes with many opportunities and challenges.  [Follow this link](https://rgs.usu.edu/graduateschool/mental-health/) for resources to help you support yourself and others. If there are issues you do not feel comfortable discussing with Noelle, please contact the [Department Head](http://biology.usu.edu/about/administration/index). 
 
 
 ## Your first day
