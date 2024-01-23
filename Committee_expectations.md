@@ -26,7 +26,7 @@ The main things you need to think about when putting together a committee meetin
 
 A special note: for your first committee meeting, it's possible that you and the committee don't know each other well, so it's a good idea to do a round of introductions. Start with introducing yourself, give a bit of your background, and what your overarching goals are, and invite each committee member to introduce themselves too to get started. Icebreaker!
 
-Happy meetings!
+> The material in these guidelines is derived from the "[Bahlai Lab General Guidelines](https://github.com/BahlaiLab/Policies/blob/master/general_guidelines.md)" by Dr. Christie Bahlai. The Beckman Research Group General Guidelines are licensed under CC BY 4.0 by Dr. Noelle G. Beckman.
 
 
 
