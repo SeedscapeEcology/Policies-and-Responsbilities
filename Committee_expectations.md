@@ -24,7 +24,7 @@ A special note: for your first committee meeting, it's possible that you and the
 
 ## Timelines for sending drafts
 
-Send drafts of documents at least 2-4 weeks before you expect comments back. For the final theses or dissertation, these should be sent at least a month before the defense.
+Send drafts of documents at least 2-4 weeks before you expect comments back. For the final thesis or dissertation, these should be sent at least a month before the defense. All drafts sent to committee members should be first reviewed and approved by your major professor.
 
 > The material in these guidelines is derived from the "[Bahlai Lab General Guidelines](https://github.com/BahlaiLab/Policies/blob/master/general_guidelines.md)" by Dr. Christie Bahlai. The Beckman Research Group General Guidelines are licensed under CC BY 4.0 by Dr. Noelle G. Beckman.
 
