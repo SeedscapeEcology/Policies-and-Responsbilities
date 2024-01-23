@@ -22,9 +22,10 @@ The main things you need to think about when putting together a committee meetin
 
 A special note: for your first committee meeting, it's possible that you and the committee don't know each other well, so it's a good idea to do a round of introductions. Start with introducing yourself, give a bit of your background, and what your overarching goals are, and invite each committee member to introduce themselves too to get started.
 
-> The material in these guidelines is derived from the "[Bahlai Lab General Guidelines](https://github.com/BahlaiLab/Policies/blob/master/general_guidelines.md)" by Dr. Christie Bahlai. The Beckman Research Group General Guidelines are licensed under CC BY 4.0 by Dr. Noelle G. Beckman.
-
-
 ## Timelines for sending drafts
 
 Send drafts of documents at least 2-4 weeks before you expect comments back. For the final theses or dissertation, these should be sent at least a month before the defense.
+
+> The material in these guidelines is derived from the "[Bahlai Lab General Guidelines](https://github.com/BahlaiLab/Policies/blob/master/general_guidelines.md)" by Dr. Christie Bahlai. The Beckman Research Group General Guidelines are licensed under CC BY 4.0 by Dr. Noelle G. Beckman.
+
+
