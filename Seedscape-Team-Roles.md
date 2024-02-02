@@ -7,7 +7,7 @@ Current roles and responsibilites include:
 | **Social media manager**| Manages and curates content for social media accounts. Currently, these include Twitter, Instagram, and Facebook. |
 | **Lab Manager**| Manages relevant projects and day-to-day activities, communicates needed supplies, and ensures lab is organized and clean.|
 | **Field Manager**| Manages relevant projects and day-to-day activites and ensures supplies and materials are properly stored and labeled.|
-| **Outreach Coordinator Manager**| Communicates and coordinates outreach opportunities for the group.|
+| **Outreach Coordinator**| Communicates and coordinates outreach opportunities for the group.|
 | **Social Events Manager**| Communicates and coordinates social events for the group.|
 | **Computational Manager**| Manages computational resources, organizes introductions and on-going learning opportunities for group members.|
 
@@ -16,12 +16,9 @@ Current roles and responsibilites include:
 | Title                     | Name           |
 | --------------------------| ---------------|
 | Social Media Manager    |  Elsa Jos  |
-| Grants Manager            |  |
-| Team Meeting Manager      |  Sarah   |
-| Outreach Coordinator      | Noelle Beckman  |
+| Team Meeting Manager      |  Noelle Beckman |
 | Lab Manager               |  Jennifer Bryan |
 | Field Manager             |  Jerry Schneider |
-| Social Events Manager     |  |
 | Computational Manager     | Sarah Bogen |
 
 
