@@ -1,7 +1,7 @@
 # General Guidelines
 Welcome to the [Beckman Research Group](www.noellebeckman.com)! Research questions in the group are interdisciplinary, drawing on ecology, behavior, and evolution, and involve mathematical, statistical, and empirical approaches. Our aim is to produce actionable science that contributes solutions to socio-environmental problems, disseminate our results to the broader community, and promote a diverse and inclusive community that welcomes and respects diverse backgrounds and perspectives.
 
-This is a living document created by and for the research group to support an inclusive community in which everyone can thrive. As such, each member of the group actively contributes to the revision of these policies to ensure that they reflect the values and expectations of the current group. Revisions will be discussed and agreed upon as a group.
+This is a living document created by and for the research group to support an inclusive community in which everyone can thrive. As such, each member of the group actively contributes to the revision of these policies to ensure that they reflect the values and expectations of the current group. Revisions will be discussed and agreed upon as a group annually and when new members join.
 
 ## Mentoring philosophy  
 
