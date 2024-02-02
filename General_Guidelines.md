@@ -90,7 +90,7 @@ If you are working in the field/lab, our inventory of field and lab supplies is 
 
 ## Team Roles
 
-Leadership is shared amongst the group, with students rotating through different roles each semester. These roles—created collaboratively as a group—allow students to take ownership of our community. [For a list of current roles and responsibilities, see here.](https://github.com/SeedscapeEcology/Policies-and-Responsbilities/Seedscape-Team-Roles.md)
+Leadership is shared amongst the group, with students rotating through different roles each semester. These roles—created collaboratively as a group—allow students to take ownership of our community. [For a list of current roles and responsibilities, see here.](https://github.com/SeedscapeEcology/Policies-and-Responsbilities/blob/master/Seedscape-Team-Roles.md)
 
 ## Data management and ownership
 
