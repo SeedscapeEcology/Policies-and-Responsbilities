@@ -90,21 +90,7 @@ If you are working in the field/lab, our inventory of field and lab supplies is 
 
 ## Team Roles
 
-Leadership is shared amongst the group, with students rotating through different roles each semester. These roles—created collaboratively as a group—allow students to take ownership of our community. [For a list of whom holds current positions, see here.](https://github.com/SeedscapeEcology/Onboarding/blob/master/Seedscape-Team-Roles.md)
-
-Current roles and responsibilites include:
-
-| Title | Responsibility|
-|-------|---------|
-| **Team meeting manager**| Organizing schedule for team meeting each semester and sending reminders.|
-| **Grants manager**| Updating existing shared file with information on grants relevant to the research group.|
-| **Social media manager**| Manages and curates content for social media accounts. Currently, these include Twitter, Instagram, and Facebook. |
-| **Lab Manager**| Manages relevant projects and day-to-day activities, communicates needed supplies, and ensures lab is organized and clean.|
-| **Field Manager**| Manages relevant projects and day-to-day activites and ensures supplies and materials are properly stored and labeled.|
-| **Outreach Coordinator Manager**| Communicates and coordinates outreach opportunities for the group.|
-| **Social Events Manager**| Communicates and coordinates social events for the group.|
-| **Computational Manager**| Manages computational resources, organizes introductions and on-going learning opportunities for group members.|
-
+Leadership is shared amongst the group, with students rotating through different roles each semester. These roles—created collaboratively as a group—allow students to take ownership of our community. [For a list of current roles and responsibilities, see here.](https://github.com/SeedscapeEcology/Onboarding/blob/master/Seedscape-Team-Roles.md)
 
 ## Data management and ownership
 
