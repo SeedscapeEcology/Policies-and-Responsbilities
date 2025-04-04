@@ -9,7 +9,7 @@ As my research group is interdisciplinary and values communicating research to d
 
 I utilize a group mentoring approach, which provides mentees with not just one, but several mentors. Each person brings unique experiences, perspectives, and skills to the group from which we can all learn from. I emphasize collaboraton and shared decision-making, so that leadership is shared amongst the group. Through this group mentoring approach, mentees develop expertise and skillsets relevant for a wide range of careers as well as gain diverse perspectives on career paths and options.
 
-I am continually learning and evolving strategies to successfully mentor and foster a diverse community. If you have suggestions for promoting diversity and inclusivity, then please let me (Noelle) know how we can remove barriers to ensure everyone has a rewarding, stimulating, and supportive educational experience. 
+I am continually learning and evolving strategies to successfully mentor and foster a diverse community. If you have suggestions for promoting community and inclusivity, then please let me (Noelle) know how we can remove barriers to ensure everyone has a rewarding, stimulating, and supportive educational experience. 
 
 
 ## Group Expectations
@@ -25,7 +25,7 @@ I am continually learning and evolving strategies to successfully mentor and fos
 * I expect everyone to keep the lap space clean. Always wash and put away dishes, keep the main table and countertops clean and free of things at the end of each day.  If you are working on a project throughout the day you may leave equipment out, but this must all be put away at the end of the day in order to keep our shared space clean. 
 
 
-* I expect everyone in the group to continuously educate yourself and actively engage in diversity, equity, and inclusion efforts. Read books! [(A living document of resources.)](https://github.com/SeedscapeEcology/Onboarding/blob/master/DiversityEquityInclusionReadingList.md) Participate in events offered by USU ([Inclusive Excellence](https://www.usu.edu/inclusive-excellence/)) or at conferences you are attending (e.g., opportunities @ [ESA](https://www.esa.org/esa/education-and-diversity/diversity-in-ecology/), [SACNAS](http://sacnas.org)). 
+* I expect everyone in the group to continuously educate yourself and actively engage in inclusive excellence. Read books! [(A living document of resources.)](https://github.com/SeedscapeEcology/Onboarding/blob/master/DiversityEquityInclusionReadingList.md) Participate in events offered by USU ([Inclusive Excellence](https://www.usu.edu/inclusive-excellence/)) or at conferences you are attending (e.g., opportunities @ [ESA](https://www.esa.org/esa/education-and-diversity/diversity-in-ecology/), [SACNAS](http://sacnas.org)). 
 
 
 
