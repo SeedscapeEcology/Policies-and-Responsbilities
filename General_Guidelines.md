@@ -66,7 +66,7 @@ I am continually learning and evolving strategies to successfully mentor and fos
 
 ## Mentor Expectations
 
-* I agree to provide guidance, support, and advice to support your academic pursuits and career development. I will assist in setting and achieving specific goals related to your graduate program and to your long-term professional aspirations.
+* I agree to provide guidance, support, and advice to support your academic pursuits and career development. I will assist in setting and achieving specific goals related to your graduate program and to your long-term professional aspirations. 
 
 * When you provide me with a draft proposal or manuscript, I will make every effort to respond in a timely manner. My commitment is to provide you with a meaningful response within 1-2 weeks.
 
@@ -78,6 +78,10 @@ I am continually learning and evolving strategies to successfully mentor and fos
 * I will support you in your career by writing letters of recommendation. At least two weeks before the deadline, please provide me with the following information: (i) due date for the letter, (ii) details of what the letter is for, (iii) instructions for what should be included in the letter, (iv) where to submit/send the letter, and (v) a draft copy of your application materials so I can tailor the letter. Some letters have the same deadline as the application, even if the application only asks you to provide name and contact information of letter writers. If you cannot find an explicit due date for the recommendation letter, either ask for clarification or assume they are due the same day your application is due and plan accordingly.
 
 * For graduate students for which I serve as the major advisor, I will serve in accordance to the expectations as outlined in the respective department’s policy/handbook (e.g., clarifying expectations for milestones in consensus with the committee).
+
+### Additional Expectations for serving on Graduate Supervisory Committees
+
+Please see the guidelines in the [USU Department of Biology Graduate Program Policy and Student Handbook](https://artsci.usu.edu/biology/students/graduate/grad_student_handbook) for "5.8.2 Why to have have committees" and "5.8.3 How to Run an Effective Committee Meeting". Note, I am not available for committee meetings during the summer months.
 
 ## Communication
 We use **Slack** to communicate within the research group. This helps keep communications organized and in one place. Please respond promptly to messages on Slack or email. If no one in the group has heard from you within 48 hours, we will worry and check-in on you.
