@@ -11,7 +11,6 @@ I utilize a group mentoring approach, which provides mentees with not just one, 
 
 I am continually learning and evolving strategies to successfully mentor and foster a diverse community. If you have suggestions for promoting community and inclusivity, then please let me (Noelle) know how we can remove barriers to ensure everyone has a rewarding, stimulating, and supportive educational experience. 
 
-
 ## Group Expectations
 
 * I trust everyone in the group to be hardworking, respectful, conscientious, kind, and open to learning. Please see our [Code of Conduct](https://github.com/SeedscapeEcology/Policies-and-Responsbilities/blob/master/Code_of_Conduct.md). 
@@ -27,7 +26,20 @@ I am continually learning and evolving strategies to successfully mentor and fos
 
 * I expect everyone in the group to continuously educate yourself and actively engage in community excellence. Participate in events offered by USU ([Center for Community](https://www.usu.edu/community/engage/)) or at conferences you are attending (e.g., opportunities @ [ESA](https://esa.org/about/diversity-in-ecology/), [SACNAS](http://sacnas.org)). 
 
+## Mentor Expectations
 
+* I agree to provide guidance, support, and advice to support your academic pursuits and career development. I will assist in setting and achieving specific goals related to your graduate program and to your long-term professional aspirations. 
+
+* When you provide me with a draft proposal or manuscript, I will make every effort to respond in a timely manner. My commitment is to provide you with a meaningful response within 1-2 weeks.
+
+* You can expect my best efforts to provide research equipment, supplies, resources, etc. to support your research. I will not always have funds to support individual experiments, but I will work with you to apply for funding. 
+
+* To help you build a strong scientific network, I will connect you with colleagues who might become potential collaborators or mentors that can offer additional perspectives.  I will offer opportunities for you to engage with others through workshops, seminars, conferences, and other relevant events. If areas of your research project fall outside of my expertise, I will work with you to find a mentor that can collaborate and advise on these aspects of your research. I will also work with you to expand your network to ensure you get guidance for the career paths that interest you most. I strongly encourage you to regularly discuss your future career goals with me, as it will allow me to better customize networking opportunities to align with your specific needs. Together, we will work towards expanding your network and enhancing your professional development.
+
+
+* I will support you in your career by writing letters of recommendation. At least two weeks before the deadline, please provide me with the following information: (i) due date for the letter, (ii) details of what the letter is for, (iii) instructions for what should be included in the letter, (iv) where to submit/send the letter, and (v) a draft copy of your application materials so I can tailor the letter. Some letters have the same deadline as the application, even if the application only asks you to provide name and contact information of letter writers. If you cannot find an explicit due date for the recommendation letter, either ask for clarification or assume they are due the same day your application is due and plan accordingly.
+
+* For graduate students for which I serve as the major advisor, I will serve in accordance to the expectations as outlined in the respective department’s policy/handbook (e.g., clarifying expectations for milestones in consensus with the committee).
 
 ## Mentee Expectations
 
@@ -63,21 +75,6 @@ I am continually learning and evolving strategies to successfully mentor and fos
 
 * Securing your own fellowship provides you the most flexibility in terms of research time and topic, I expect early career scholars to write and submit fellowship applications whenever possible. 
 
-
-## Mentor Expectations
-
-* I agree to provide guidance, support, and advice to support your academic pursuits and career development. I will assist in setting and achieving specific goals related to your graduate program and to your long-term professional aspirations. 
-
-* When you provide me with a draft proposal or manuscript, I will make every effort to respond in a timely manner. My commitment is to provide you with a meaningful response within 1-2 weeks.
-
-* You can expect my best efforts to provide research equipment, supplies, resources, etc. to support your research. I will not always have funds to support individual experiments, but I will work with you to apply for funding. 
-
-* To help you build a strong scientific network, I will connect you with colleagues who might become potential collaborators or mentors that can offer additional perspectives.  I will offer opportunities for you to engage with others through workshops, seminars, conferences, and other relevant events. If areas of your research project fall outside of my expertise, I will work with you to find a mentor that can collaborate and advise on these aspects of your research. I will also work with you to expand your network to ensure you get guidance for the career paths that interest you most. I strongly encourage you to regularly discuss your future career goals with me, as it will allow me to better customize networking opportunities to align with your specific needs. Together, we will work towards expanding your network and enhancing your professional development.
-
-
-* I will support you in your career by writing letters of recommendation. At least two weeks before the deadline, please provide me with the following information: (i) due date for the letter, (ii) details of what the letter is for, (iii) instructions for what should be included in the letter, (iv) where to submit/send the letter, and (v) a draft copy of your application materials so I can tailor the letter. Some letters have the same deadline as the application, even if the application only asks you to provide name and contact information of letter writers. If you cannot find an explicit due date for the recommendation letter, either ask for clarification or assume they are due the same day your application is due and plan accordingly.
-
-* For graduate students for which I serve as the major advisor, I will serve in accordance to the expectations as outlined in the respective department’s policy/handbook (e.g., clarifying expectations for milestones in consensus with the committee).
 
 ### Additional Expectations for serving on Graduate Supervisory Committees
 
