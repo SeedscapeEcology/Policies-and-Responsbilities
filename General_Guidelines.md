@@ -76,7 +76,7 @@ I am continually learning and evolving strategies to successfully mentor and fos
 * Securing your own fellowship provides you the most flexibility in terms of research time and topic, I expect early career scholars to write and submit fellowship applications whenever possible. 
 
 
-### Additional Expectations for serving on Graduate Supervisory Committees
+### Expectations for serving on Graduate Supervisory Committees
 
 Please see the guidelines in the [USU Department of Biology Graduate Program Policy and Student Handbook](https://artsci.usu.edu/biology/students/graduate/grad_student_handbook) for "5.8.2 Why to have have committees" and "5.8.3 How to Run an Effective Committee Meeting". Note, I am not available for committee meetings during the summer months.
 
