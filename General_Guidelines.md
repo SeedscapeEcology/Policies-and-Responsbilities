@@ -41,7 +41,7 @@ I am continually learning and evolving strategies to successfully mentor and fos
 
 * For graduate students for which I serve as the major advisor, I will serve in accordance to the expectations as outlined in the respective department’s policy/handbook (e.g., clarifying expectations for milestones in consensus with the committee).
 
-## Mentee Expectations
+## Mentee Expectations (for graduate students for which I serve as the major advisor)
 
 * While I am closely involved in the research of undergraduate and master's students, I expect a high level of independence from doctoral students and postdoctoral scholars. I expect mentees to develop projects in collaboration with me that broadly overlap with my research. 
 
