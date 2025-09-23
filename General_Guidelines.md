@@ -109,7 +109,7 @@ Read over USU's and the Department of Biology's [safety policies](http://www.bio
 
 ## Time Off: Vacation & USU Holidays 
 
-It is important to maintain a healthy work-life balance and I encourage you to take vacation time each year. It would be appropriate to take up to 3 weeks/year. I generally expect at least one month's notice before taking a planned vacation. I also expect consideration of upcoming grants, conferences, and other deadlines when planning vacation. 
+It is important to maintain a healthy work-life balance and I encourage you to take vacation time each year. Please see the [Attendance Policy](https://gradschool.usu.edu/handbooks/supervising-graduate-assistantships) set forth by the School of Graduate Studies. I generally expect at least one month's notice before taking a planned vacation. I also expect consideration of upcoming grants, conferences, and other deadlines when planning vacation. 
 
 There is a difference between academic holidays and official university holidays. Academic holidays (fall break, spring break, etc.) are breaks from classes, but are not considered official university holidays. If you wish to take a vacation during academic holidays, please treat it as vacation time and talk to me in advance. Official university holidays are days when the university will be closed. You are generally not expected to work on those days, and we will not hold meetings on university holidays.
 
