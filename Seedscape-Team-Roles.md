@@ -19,6 +19,8 @@ Current roles and responsibilites include:
 | Lab Manager               |  Jennifer Bryan |
 | Field Manager             |  Noelle |
 | Computational Manager     | Bea |
+| Verde Elemental Science Communcator | Ashley |
+
 
 
 # 2024-2025
