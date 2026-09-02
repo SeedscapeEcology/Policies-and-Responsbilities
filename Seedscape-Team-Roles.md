@@ -11,6 +11,15 @@ Current roles and responsibilites include:
 | **Social Events Manager**| Communicates and coordinates social events for the group.|
 | **Computational Manager**| Manages computational resources, organizes introductions and on-going learning opportunities for group members.|
 
+# 2026-2027
+| Title                     | Name           |
+| --------------------------| ---------------|
+| Social Media Manager    |  Elsa Jos  |
+| Team Meeting Manager      |  Noelle Beckman |
+| Lab Manager               |  Jennifer Bryan |
+| Field Manager             |  Noelle |
+| Computational Manager     | Bea |
+
 
 # 2024-2025
 | Title                     | Name           |
