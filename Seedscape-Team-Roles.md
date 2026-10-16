@@ -14,10 +14,9 @@ Current roles and responsibilites include:
 # 2026-2027
 | Title                     | Name           |
 | --------------------------| ---------------|
-| Social Media Manager    |  Elsa Jos  |
+| Social Media Manager    |  Bea  |
 | Team Meeting Manager      |  Noelle Beckman |
-| Lab Manager               |  Jennifer Bryan |
-| Field Manager             |  Noelle |
+| Lab Manager               |  Noelle Beckman |
 | Computational Manager     | Bea |
 | Verde Elemental Science Communicator | Ashley |
 
